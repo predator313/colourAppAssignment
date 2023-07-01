@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "827395909214",
+    "project_id": "janitriassignment",
+    "storage_bucket": "janitriassignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:827395909214:android:1e04093c14f5a959b536cf",
+        "android_client_info": {
+          "package_name": "com.aamirashraf.janitriassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "827395909214-mf40b6s0lavea1s2dbvt2u8a4oasstae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4ndRoPPc0t4TCUFbJXhI06UhaPr9d7BE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "827395909214-mf40b6s0lavea1s2dbvt2u8a4oasstae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
